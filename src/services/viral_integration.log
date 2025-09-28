@@ -1,0 +1,115 @@
+2025-09-26 05:20:32,160 - services.viral_integration_service - INFO - ✅ OpenRouter API 1 carregada
+2025-09-26 05:20:32,160 - services.viral_integration_service - INFO - ✅ OpenRouter API 2 carregada
+2025-09-26 05:20:32,161 - services.viral_integration_service - INFO - ✅ OpenRouter API 3 carregada
+2025-09-26 05:20:32,161 - services.viral_integration_service - INFO - ✅ Serper API principal carregada
+2025-09-26 05:20:32,161 - services.viral_integration_service - INFO - ✅ Serper API 1 carregada
+2025-09-26 05:20:32,162 - services.viral_integration_service - INFO - ✅ Serper API 2 carregada
+2025-09-26 05:20:32,162 - services.viral_integration_service - INFO - ✅ Google CSE carregada
+2025-09-26 05:20:32,162 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: viral_images_data
+2025-09-26 05:20:32,163 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: downloaded_images
+2025-09-26 05:20:32,163 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: screenshots
+2025-09-26 05:20:32,163 - services.viral_integration_service - INFO - ✅ 7 API(s) configurada(s) e prontas para uso
+2025-09-26 05:20:32,164 - services.viral_integration_service - WARNING - ⚠️ aiohttp/aiofiles não instalados. Usando requests síncrono como fallback.
+2025-09-26 05:20:32,171 - services.viral_integration_service - WARNING - ⚠️ Playwright não disponível. Funcionalidades avançadas desabilitadas.
+2025-09-26 05:20:32,172 - services.viral_integration_service - INFO - 🔥 Viral Integration Service CORRIGIDO e inicializado
+2025-09-26 05:20:32,173 - services.viral_integration_service - INFO - 🔥 Viral Integration Service CORRIGIDO e inicializado
+2025-09-26 05:20:32,173 - services.viral_integration_service - INFO - ✅ OpenRouter API 1 carregada
+2025-09-26 05:20:32,173 - services.viral_integration_service - INFO - ✅ OpenRouter API 2 carregada
+2025-09-26 05:20:32,173 - services.viral_integration_service - INFO - ✅ OpenRouter API 3 carregada
+2025-09-26 05:20:32,174 - services.viral_integration_service - INFO - ✅ Serper API principal carregada
+2025-09-26 05:20:32,174 - services.viral_integration_service - INFO - ✅ Serper API 1 carregada
+2025-09-26 05:20:32,174 - services.viral_integration_service - INFO - ✅ Serper API 2 carregada
+2025-09-26 05:20:32,174 - services.viral_integration_service - INFO - ✅ Google CSE carregada
+2025-09-26 05:20:32,175 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: viral_images_data
+2025-09-26 05:20:32,175 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: downloaded_images
+2025-09-26 05:20:32,175 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: screenshots
+2025-09-26 05:20:32,176 - services.viral_integration_service - INFO - ✅ 7 API(s) configurada(s) e prontas para uso
+2025-09-26 05:20:32,176 - services.viral_integration_service - WARNING - ⚠️ aiohttp/aiofiles não instalados. Usando requests síncrono como fallback.
+2025-09-26 05:20:32,176 - services.viral_integration_service - WARNING - ⚠️ Playwright não disponível. Funcionalidades avançadas desabilitadas.
+2025-09-26 05:20:32,177 - services.viral_integration_service - INFO - 🔥 Viral Integration Service CORRIGIDO e inicializado
+2025-09-26 05:53:42,185 - services.viral_integration_service - INFO - ✅ OpenRouter API 1 carregada
+2025-09-26 05:53:42,186 - services.viral_integration_service - INFO - ✅ OpenRouter API 2 carregada
+2025-09-26 05:53:42,186 - services.viral_integration_service - INFO - ✅ OpenRouter API 3 carregada
+2025-09-26 05:53:42,186 - services.viral_integration_service - INFO - ✅ Serper API principal carregada
+2025-09-26 05:53:42,187 - services.viral_integration_service - INFO - ✅ Serper API 1 carregada
+2025-09-26 05:53:42,187 - services.viral_integration_service - INFO - ✅ Serper API 2 carregada
+2025-09-26 05:53:42,187 - services.viral_integration_service - INFO - ✅ Google CSE carregada
+2025-09-26 05:53:42,188 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: viral_images_data
+2025-09-26 05:53:42,189 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: downloaded_images
+2025-09-26 05:53:42,189 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: screenshots
+2025-09-26 05:53:42,189 - services.viral_integration_service - INFO - ✅ 7 API(s) configurada(s) e prontas para uso
+2025-09-26 05:53:42,192 - services.viral_integration_service - WARNING - ⚠️ aiohttp/aiofiles não instalados. Usando requests síncrono como fallback.
+2025-09-26 05:53:42,193 - services.viral_integration_service - WARNING - ⚠️ Playwright não disponível. Funcionalidades avançadas desabilitadas.
+2025-09-26 05:53:42,193 - services.viral_integration_service - INFO - 🔥 Viral Integration Service CORRIGIDO e inicializado
+2025-09-26 05:53:42,194 - services.viral_integration_service - INFO - 🔥 Viral Integration Service CORRIGIDO e inicializado
+2025-09-26 05:53:42,194 - services.viral_integration_service - INFO - ✅ OpenRouter API 1 carregada
+2025-09-26 05:53:42,195 - services.viral_integration_service - INFO - ✅ OpenRouter API 2 carregada
+2025-09-26 05:53:42,195 - services.viral_integration_service - INFO - ✅ OpenRouter API 3 carregada
+2025-09-26 05:53:42,195 - services.viral_integration_service - INFO - ✅ Serper API principal carregada
+2025-09-26 05:53:42,196 - services.viral_integration_service - INFO - ✅ Serper API 1 carregada
+2025-09-26 05:53:42,196 - services.viral_integration_service - INFO - ✅ Serper API 2 carregada
+2025-09-26 05:53:42,197 - services.viral_integration_service - INFO - ✅ Google CSE carregada
+2025-09-26 05:53:42,197 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: viral_images_data
+2025-09-26 05:53:42,198 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: downloaded_images
+2025-09-26 05:53:42,198 - services.viral_integration_service - INFO - ✅ Diretório criado/verificado: screenshots
+2025-09-26 05:53:42,198 - services.viral_integration_service - INFO - ✅ 7 API(s) configurada(s) e prontas para uso
+2025-09-26 05:53:42,199 - services.viral_integration_service - WARNING - ⚠️ aiohttp/aiofiles não instalados. Usando requests síncrono como fallback.
+2025-09-26 05:53:42,199 - services.viral_integration_service - WARNING - ⚠️ Playwright não disponível. Funcionalidades avançadas desabilitadas.
+2025-09-26 05:53:42,199 - services.viral_integration_service - INFO - 🔥 Viral Integration Service CORRIGIDO e inicializado
+2025-09-27 02:16:47,881 - src.services.viral_integration_service - INFO - ✅ OpenRouter API 1 carregada
+2025-09-27 02:16:47,881 - src.services.viral_integration_service - INFO - ✅ OpenRouter API 2 carregada
+2025-09-27 02:16:47,881 - src.services.viral_integration_service - INFO - ✅ OpenRouter API 3 carregada
+2025-09-27 02:16:47,881 - src.services.viral_integration_service - INFO - ✅ Serper API principal carregada
+2025-09-27 02:16:47,881 - src.services.viral_integration_service - INFO - ✅ Serper API 1 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Serper API 2 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Jina API 1 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Jina API 2 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Jina API 3 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Jina API 4 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Exa API 1 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Firecrawl API 1 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Firecrawl API 2 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Google CSE carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Apify API 1 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Apify API 2 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Apify API 3 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Tavily API 1 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Supadata API 1 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ PhantomBuster API 1 carregada
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - 🔄 Sistema de intercalação ativado: serper → jina → exa → firecrawl → apify → tavily → supadata → phantombuster
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Diretório criado/verificado: viral_images_data
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Diretório criado/verificado: downloaded_images
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ Diretório criado/verificado: screenshots
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ 20 API(s) configurada(s) e prontas para uso
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - WARNING - ⚠️ Playwright não disponível. Funcionalidades avançadas desabilitadas.
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - WARNING - ⚠️ Google Generative AI não disponível. Análise de conteúdo limitada.
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - 🔥 Viral Integration Service CORRIGIDO e inicializado
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - 🔥 Viral Integration Service CORRIGIDO e inicializado
+2025-09-27 02:16:47,882 - src.services.viral_integration_service - INFO - ✅ OpenRouter API 1 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ OpenRouter API 2 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ OpenRouter API 3 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Serper API principal carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Serper API 1 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Serper API 2 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Jina API 1 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Jina API 2 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Jina API 3 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Jina API 4 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Exa API 1 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Firecrawl API 1 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Firecrawl API 2 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Google CSE carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Apify API 1 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Apify API 2 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Apify API 3 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Tavily API 1 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Supadata API 1 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ PhantomBuster API 1 carregada
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - 🔄 Sistema de intercalação ativado: serper → jina → exa → firecrawl → apify → tavily → supadata → phantombuster
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Diretório criado/verificado: viral_images_data
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Diretório criado/verificado: downloaded_images
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ Diretório criado/verificado: screenshots
+2025-09-27 02:16:47,883 - src.services.viral_integration_service - INFO - ✅ 20 API(s) configurada(s) e prontas para uso
+2025-09-27 02:16:47,884 - src.services.viral_integration_service - WARNING - ⚠️ Playwright não disponível. Funcionalidades avançadas desabilitadas.
+2025-09-27 02:16:47,884 - src.services.viral_integration_service - WARNING - ⚠️ Google Generative AI não disponível. Análise de conteúdo limitada.
+2025-09-27 02:16:47,884 - src.services.viral_integration_service - INFO - 🔥 Viral Integration Service CORRIGIDO e inicializado
