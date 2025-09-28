@@ -1,0 +1,86 @@
+thresholds:
+  approval: 0.75
+  rejection: 0.35
+  high_confidence: 0.85
+  low_confidence: 0.5
+  bias_high_risk: 0.7
+sentiment_analysis:
+  enabled: true
+  use_vader: true
+  use_textblob: true
+  polarity_weights:
+    positive: 1.1
+    negative: 0.8
+    neutral: 1.0
+bias_detection:
+  enabled: true
+  bias_keywords:
+    - "narrativa"
+    - "propaganda"
+    - "doutrinação"
+    - "agenda oculta"
+    - "manipulação"
+    - "teoria da conspiração"
+    - "fake news"
+    - "desinformação"
+    - "viés político"
+    - "viés ideológico"
+    - "viés de gênero"
+    - "viés racial"
+    - "discurso de ódio"
+    - "extremista"
+    - "radical"
+    - "alarmista"
+    - "sensacionalista"
+    - "distorção"
+    - "meia verdade"
+    - "engano"
+  disinformation_patterns:
+    - "afirmações sem provas"
+    - "citações fora de contexto"
+    - "estatísticas enganosas"
+    - "apelo à emoção"
+    - "ataques pessoais"
+    - "falsa equivalência"
+    - "notícia falsa"
+    - "teoria da conspiração"
+    - "clickbait"
+    - "sensacionalismo"
+    - "generalização apressada"
+    - "falácia do espantalho"
+    - "ad hominem"
+    - "apelo à autoridade (sem prova)"
+  rhetoric_devices:
+    - "ad hominem"
+    - "apelo ao medo"
+    - "apelo à emoção"
+    - "generalização"
+    - "falsa dicotomia"
+    - "hipérbole"
+    - "ironia"
+    - "sarcasmo"
+llm_reasoning:
+  enabled: true
+  provider: gemini
+  model: gemini-1.5-flash
+  max_tokens: 1000
+  temperature: 0.3
+  confidence_threshold: 0.6
+contextual_analysis:
+  enabled: true
+rule_engine:
+  enabled: true
+  rules:
+    - id: "high_bias_rejection"
+      condition: "bias_disinformation_analysis.overall_risk > 0.8"
+      action: "reject"
+      reason: "Alto risco de viés ou desinformação detectado."
+    - id: "low_confidence_review"
+      condition: "ai_review.final_confidence < 0.4"
+      action: "manual_review"
+      reason: "Baixa confiança na análise automática, requer revisão manual."
+    - id: "positive_sentiment_approval"
+      condition: "sentiment_analysis.classification == \"positive\" and bias_disinformation_analysis.overall_risk < 0.3"
+      action: "approve"
+      reason: "Conteúdo positivo com baixo risco de viés."
+
